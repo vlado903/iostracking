@@ -6,7 +6,7 @@ Serverová část poskytuje REST endpoint s pravidly pro rozpoznání aktivit (n
 
 Pravidla jsou uživatelsky editovatelná ve webovém prohlížeči. 
 
-iOS klient pravidla ukládá a periodicky kontroluje, zda-li nejsou splněny podmínky pro vyvolání akce - zobrazení notifikace, zobrazení dotazníku.
+iOS klient pravidla ukládá a periodicky kontroluje, zda jsou splněny podmínky pro vyvolání akce - zobrazení notifikace, zobrazení dotazníku.
 
 Pro vyhodnocování aktivit jsou použita data z HealthKit frameworku, kam ukládají data zařízení a aplikace podporující platformu Health od Apple (např. iPhone, Apple Watch, Strava,..), se zvláštním zaměřením na data získané z Apple Watch.
 
